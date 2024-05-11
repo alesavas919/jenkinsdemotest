@@ -17,6 +17,6 @@ class JenkinsdemotestApplicationTests {
 	@Test
 	void context2() {
         int resultado = 3+5;
-        assertEquals(3, resultado, "La suma no es correcta");
+        assertEquals(8, resultado, "La suma no es correcta");
 	}
 }
